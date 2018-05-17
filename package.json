@@ -19,6 +19,7 @@
     "react-scripts": "1.0.17",
     "react-swipeable-views": "0.12.12"
   },
+  "homepage": "https://github.com/felipet66/cbcagronegocios-dashboard.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
